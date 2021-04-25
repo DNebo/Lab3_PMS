@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <string name="title_activity_lab1">Lab 3</string>
+    <string name="home_label"><pre>Небеський Данило\nГрупа ІВ-81\nЗК ІВ-8121</pre></string>
+    <string name="tab_text_1">General</string>
+    <string name="tab_text_2">Item 2</string>
+    <string name="tab_text_3">Books</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_mode">View mode</string>
+    <string name="diagram">Diagram</string>
+    <string name="graphic">Graphic</string>
+    <string name="book_cover">book_cover</string>
+</resources>
